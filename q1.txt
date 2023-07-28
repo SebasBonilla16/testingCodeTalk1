@@ -1,0 +1,7 @@
+Cypress is an open-source E2E testing framework designed for web apps. Helps developers and QA 
+engineers to write and execute tests that simulate user journeys through the app.
+    - Easy to set up and use
+    - Fast and efficient
+    - Automatic waiting
+    - Debugging capabilites
+    - Consistent and reliable

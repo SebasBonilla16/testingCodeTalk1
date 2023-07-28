@@ -1,0 +1,7 @@
+Cypress is primarily designed for E2E testing. Mostly geared towards 
+ - Functional tests
+ - User Acceptance testing
+ - Integration tests
+ - Cross-Browser testing
+ - Performance testing
+ - Accessibility testing
